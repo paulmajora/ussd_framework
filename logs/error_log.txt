@@ -1,0 +1,196 @@
+
+8	|	Undefined index: msisdn	|	/srv/www/ussdapp.dev/public_html/ussd/msika/index.php	|	18	|	Array
+
+8	|	Undefined index: msisdn	|	/srv/www/ussdapp.dev/public_html/ussd/msika/index.php	|	18	|	Array
+
+8	|	Undefined index: network	|	C:\xampp\htdocs\mobiWise\index.php	|	19	|	Array
+
+8	|	Undefined index: data	|	C:\xampp\htdocs\mobiWise\index.php	|	504	|	Array
+
+8	|	Undefined index: limit	|	C:\xampp\htdocs\mobiWise\index.php	|	296	|	Array
+
+8	|	Undefined index: network	|	C:\xampp\htdocs\mobiWise\index.php	|	19	|	Array
+
+8	|	Undefined index: data	|	C:\xampp\htdocs\mobiWise\index.php	|	504	|	Array
+
+8	|	Undefined index: limit	|	C:\xampp\htdocs\mobiWise\index.php	|	296	|	Array
+
+8	|	Undefined index: network	|	C:\xampp\htdocs\mobiWise\index.php	|	19	|	Array
+
+8	|	Undefined index: data	|	C:\xampp\htdocs\mobiWise\index.php	|	504	|	Array
+
+8	|	Undefined index: limit	|	C:\xampp\htdocs\mobiWise\index.php	|	296	|	Array
+
+8	|	Undefined index: network	|	C:\xampp\htdocs\mobiWise\index.php	|	19	|	Array
+
+8	|	Undefined index: data	|	C:\xampp\htdocs\mobiWise\index.php	|	504	|	Array
+
+8	|	Undefined index: limit	|	C:\xampp\htdocs\mobiWise\index.php	|	296	|	Array
+
+8	|	Undefined index: network	|	C:\xampp\htdocs\mobiWise\index.php	|	19	|	Array
+
+8	|	Undefined index: data	|	C:\xampp\htdocs\mobiWise\index.php	|	504	|	Array
+
+8	|	Undefined index: limit	|	C:\xampp\htdocs\mobiWise\index.php	|	296	|	Array
+
+8	|	Undefined index: network	|	C:\xampp\htdocs\mobiWise\index.php	|	19	|	Array
+
+8	|	Undefined index: data	|	C:\xampp\htdocs\mobiWise\index.php	|	504	|	Array
+
+8	|	Undefined index: limit	|	C:\xampp\htdocs\mobiWise\index.php	|	296	|	Array
+
+8	|	Undefined index: network	|	C:\xampp\htdocs\mobiWise\index.php	|	19	|	Array
+
+8	|	Undefined index: data	|	C:\xampp\htdocs\mobiWise\index.php	|	504	|	Array
+
+8	|	Undefined index: limit	|	C:\xampp\htdocs\mobiWise\index.php	|	296	|	Array
+
+8	|	Undefined index: network	|	C:\xampp\htdocs\mobiWise\index.php	|	19	|	Array
+
+8	|	Undefined index: data	|	C:\xampp\htdocs\mobiWise\index.php	|	504	|	Array
+
+8	|	Undefined index: limit	|	C:\xampp\htdocs\mobiWise\index.php	|	296	|	Array
+
+8	|	Undefined index: network	|	C:\xampp\htdocs\mobiWise\index.php	|	19	|	Array
+
+8	|	Undefined index: data	|	C:\xampp\htdocs\mobiWise\index.php	|	504	|	Array
+
+8	|	Undefined index: limit	|	C:\xampp\htdocs\mobiWise\index.php	|	296	|	Array
+
+8	|	Undefined index: network	|	C:\xampp\htdocs\mobiWise\index.php	|	19	|	Array
+
+8	|	Undefined index: data	|	C:\xampp\htdocs\mobiWise\index.php	|	504	|	Array
+
+8	|	Undefined index: limit	|	C:\xampp\htdocs\mobiWise\index.php	|	296	|	Array
+
+8	|	Undefined index: network	|	C:\xampp\htdocs\mobiWise\index.php	|	19	|	Array
+
+8	|	Undefined index: data	|	C:\xampp\htdocs\mobiWise\index.php	|	504	|	Array
+
+8	|	Undefined index: limit	|	C:\xampp\htdocs\mobiWise\index.php	|	296	|	Array
+
+8	|	Undefined index: network	|	C:\xampp\htdocs\mobiWise\index.php	|	19	|	Array
+
+8	|	Undefined index: data	|	C:\xampp\htdocs\mobiWise\index.php	|	504	|	Array
+
+8	|	Undefined index: limit	|	C:\xampp\htdocs\mobiWise\index.php	|	296	|	Array
+
+8	|	Undefined index: network	|	C:\xampp\htdocs\mobiWise\index.php	|	19	|	Array
+
+8	|	Undefined index: data	|	C:\xampp\htdocs\mobiWise\index.php	|	504	|	Array
+
+8	|	Undefined index: limit	|	C:\xampp\htdocs\mobiWise\index.php	|	296	|	Array
+
+8	|	Undefined index: network	|	C:\xampp\htdocs\mobiWise\index.php	|	19	|	Array
+
+8	|	Undefined index: data	|	C:\xampp\htdocs\mobiWise\index.php	|	504	|	Array
+
+8	|	Undefined index: limit	|	C:\xampp\htdocs\mobiWise\index.php	|	296	|	Array
+
+8	|	Undefined index: network	|	C:\xampp\htdocs\mobiWise\index.php	|	19	|	Array
+
+8	|	Undefined index: data	|	C:\xampp\htdocs\mobiWise\index.php	|	504	|	Array
+
+8	|	Undefined index: limit	|	C:\xampp\htdocs\mobiWise\index.php	|	296	|	Array
+
+8	|	Undefined index: network	|	C:\xampp\htdocs\mobiWise\index.php	|	19	|	Array
+
+8	|	Undefined index: data	|	C:\xampp\htdocs\mobiWise\index.php	|	504	|	Array
+
+8	|	Undefined index: limit	|	C:\xampp\htdocs\mobiWise\index.php	|	296	|	Array
+
+8	|	Undefined index: network	|	C:\xampp\htdocs\mobiWise\index.php	|	19	|	Array
+
+8	|	Undefined index: data	|	C:\xampp\htdocs\mobiWise\index.php	|	504	|	Array
+
+8	|	Undefined index: limit	|	C:\xampp\htdocs\mobiWise\index.php	|	296	|	Array
+
+8	|	Undefined index: network	|	C:\xampp\htdocs\mobiWise\index.php	|	19	|	Array
+
+8	|	Undefined index: data	|	C:\xampp\htdocs\mobiWise\index.php	|	504	|	Array
+
+8	|	Undefined index: limit	|	C:\xampp\htdocs\mobiWise\index.php	|	296	|	Array
+
+8	|	Undefined index: network	|	C:\xampp\htdocs\mobiWise\index.php	|	19	|	Array
+
+8	|	Undefined index: data	|	C:\xampp\htdocs\mobiWise\index.php	|	504	|	Array
+
+8	|	Undefined index: limit	|	C:\xampp\htdocs\mobiWise\index.php	|	296	|	Array
+
+8	|	Undefined index: network	|	C:\xampp\htdocs\mobiWise\index.php	|	19	|	Array
+
+8	|	Undefined index: data	|	C:\xampp\htdocs\mobiWise\index.php	|	504	|	Array
+
+8	|	Undefined index: limit	|	C:\xampp\htdocs\mobiWise\index.php	|	296	|	Array
+
+8	|	Undefined index: network	|	C:\xampp\htdocs\mobiWise\index.php	|	19	|	Array
+
+8	|	Undefined index: data	|	C:\xampp\htdocs\mobiWise\index.php	|	504	|	Array
+
+8	|	Undefined index: limit	|	C:\xampp\htdocs\mobiWise\index.php	|	296	|	Array
+
+8	|	Undefined index: network	|	C:\xampp\htdocs\mobiWise\index.php	|	19	|	Array
+
+8	|	Undefined index: data	|	C:\xampp\htdocs\mobiWise\index.php	|	504	|	Array
+
+8	|	Undefined index: limit	|	C:\xampp\htdocs\mobiWise\index.php	|	296	|	Array
+
+8	|	Undefined index: network	|	C:\xampp\htdocs\mobiWise\index.php	|	19	|	Array
+
+8	|	Undefined index: data	|	C:\xampp\htdocs\mobiWise\index.php	|	504	|	Array
+
+8	|	Undefined index: limit	|	C:\xampp\htdocs\mobiWise\index.php	|	296	|	Array
+
+8	|	Undefined index: network	|	C:\xampp\htdocs\mobiWise\index.php	|	19	|	Array
+
+8	|	Undefined index: data	|	C:\xampp\htdocs\mobiWise\index.php	|	504	|	Array
+
+8	|	Undefined index: limit	|	C:\xampp\htdocs\mobiWise\index.php	|	296	|	Array
+
+8	|	Undefined index: network	|	C:\xampp\htdocs\mobiWise\index.php	|	19	|	Array
+
+8	|	Undefined index: data	|	C:\xampp\htdocs\mobiWise\index.php	|	504	|	Array
+
+8	|	Undefined index: limit	|	C:\xampp\htdocs\mobiWise\index.php	|	296	|	Array
+
+8	|	Undefined index: network	|	C:\xampp\htdocs\mobiWise\index.php	|	19	|	Array
+
+8	|	Undefined index: data	|	C:\xampp\htdocs\mobiWise\index.php	|	504	|	Array
+
+8	|	Undefined index: limit	|	C:\xampp\htdocs\mobiWise\index.php	|	296	|	Array
+
+8	|	Undefined index: network	|	C:\xampp\htdocs\mobiWise\index.php	|	19	|	Array
+
+8	|	Undefined index: data	|	C:\xampp\htdocs\mobiWise\index.php	|	504	|	Array
+
+8	|	Undefined index: limit	|	C:\xampp\htdocs\mobiWise\index.php	|	296	|	Array
+
+8	|	Undefined index: network	|	C:\xampp\htdocs\mobiWise\index.php	|	19	|	Array
+
+8	|	Undefined index: data	|	C:\xampp\htdocs\mobiWise\index.php	|	504	|	Array
+
+8	|	Undefined index: limit	|	C:\xampp\htdocs\mobiWise\index.php	|	296	|	Array
+
+8	|	Undefined index: network	|	C:\xampp\htdocs\mobiWise\index.php	|	19	|	Array
+
+8	|	Undefined index: data	|	C:\xampp\htdocs\mobiWise\index.php	|	504	|	Array
+
+8	|	Undefined index: limit	|	C:\xampp\htdocs\mobiWise\index.php	|	296	|	Array
+
+8	|	Undefined index: network	|	C:\xampp\htdocs\mobiWise\index.php	|	19	|	Array
+
+8	|	Undefined index: data	|	C:\xampp\htdocs\mobiWise\index.php	|	504	|	Array
+
+8	|	Undefined index: limit	|	C:\xampp\htdocs\mobiWise\index.php	|	296	|	Array
+
+8	|	Undefined index: network	|	C:\xampp\htdocs\mobiWise\index.php	|	19	|	Array
+
+8	|	Undefined index: data	|	C:\xampp\htdocs\mobiWise\index.php	|	504	|	Array
+
+8	|	Undefined index: limit	|	C:\xampp\htdocs\mobiWise\index.php	|	296	|	Array
+
+8	|	Undefined index: network	|	C:\xampp\htdocs\mobiWise\index.php	|	19	|	Array
+
+8	|	Undefined index: data	|	C:\xampp\htdocs\mobiWise\index.php	|	504	|	Array
+
+8	|	Undefined index: limit	|	C:\xampp\htdocs\mobiWise\index.php	|	296	|	Array
