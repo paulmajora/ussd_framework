@@ -1,0 +1,260 @@
+
+preview_data : 1
+
+Session Already Started : 233201870623
+
+Execute Action : awaiting_choice
+
+analyze_choice : 1
+
+current_page : pay_contribution
+
+choice_exists : page => pay_contribution, choice => 1 
+
+current_page : pay_contribution
+
+choosing action : page = pay_contribution, choice = 1
+
+ensure_choice_exists : page => pay_contribution, choice => 1
+
+current_page : pay_contribution
+
+preview_data : 0
+
+current_page : pay_contribution
+
+back to : page => list_groups,choice => 0
+
+ensure_page_exists : page => list_groups
+
+preview_data : *717*30
+
+Data Matched Short Code
+
+Restarting session at page => pay_contribution
+
+ensure_page_exists : page => pay_contribution
+
+preview_data : *717*30
+
+Data Matched Short Code
+
+Restarting session at page => pay_contribution
+
+ensure_page_exists : page => pay_contribution
+
+preview_data : 0
+
+current_page : pay_contribution
+
+back to : page => welcome_page,choice => 0
+
+ensure_page_exists : page => welcome_page
+
+choice_exists : page => welcome_page, choice => 0 
+
+Runing Page : page => welcome_page , choice => 0
+
+preview_data : 0
+
+current_page : welcome_page
+
+back to : page => 0,choice => 0
+
+ensure_page_exists : page => 0
+
+choice_exists : page => 0, choice => 0 
+
+Runing Page : page => 0 , choice => 0
+
+ensure_page_exists : page => welcome_page
+
+history option => 2 , hidden => 2
+
+Saving Page history page => welcome_page , choice => 
+
+choice_exists : page => welcome_page, choice =>  
+
+Runing Page : page => welcome_page , choice => 
+
+preview_data : 1
+
+Session Already Started : 233201870623
+
+Execute Action : awaiting_choice
+
+analyze_choice : 1
+
+current_page : welcome_page
+
+choice_exists : page => welcome_page, choice => 1 
+
+current_page : welcome_page
+
+choosing action : page = welcome_page, choice = 1
+
+ensure_choice_exists : page => welcome_page, choice => 1
+
+choice_exists : page => welcome_page, choice => 1 
+
+ensure_page_exists : page => enter_name
+
+history option => 2 , hidden => 2
+
+Saving Page history page => enter_name , choice => 
+
+choice_exists : page => enter_name, choice =>  
+
+Runing Page : page => enter_name , choice => 
+
+preview_data : 12
+
+Session Already Started : 233201870623
+
+Execute Action : awaiting_input
+
+analyze_input : 12
+
+validating input key/parameter : name
+
+Receiving Input [name  = 12]
+
+forward
+
+current_page : enter_name
+
+current_page : enter_name
+
+next_page : 1
+
+ensure_page_exists : page => enter_name
+
+ensure_page_exists : page => enter_age
+
+history option => 2 , hidden => 2
+
+Saving Page history page => enter_age , choice => 
+
+choice_exists : page => enter_age, choice =>  
+
+Runing Page : page => enter_age , choice => 
+
+preview_data : 122
+
+Session Already Started : 233201870623
+
+Execute Action : awaiting_input
+
+analyze_input : 122
+
+validating input key/parameter : age
+
+Receiving Input [age  = 122]
+
+forward
+
+current_page : enter_age
+
+current_page : enter_age
+
+next_page : 1
+
+ensure_page_exists : page => enter_age
+
+ensure_page_exists : page => about
+
+history option => 2 , hidden => 2
+
+Saving Page history page => about , choice => 
+
+choice_exists : page => about, choice =>  
+
+Runing Page : page => about , choice => 
+
+preview_data : 0
+
+current_page : about
+
+back to : page => enter_age,choice => 0
+
+ensure_page_exists : page => enter_age
+
+choice_exists : page => enter_age, choice => 0 
+
+Runing Page : page => enter_age , choice => 0
+
+preview_data : 0
+
+current_page : enter_age
+
+back to : page => enter_name,choice => 0
+
+ensure_page_exists : page => enter_name
+
+choice_exists : page => enter_name, choice => 0 
+
+Runing Page : page => enter_name , choice => 0
+
+preview_data : 0
+
+current_page : enter_name
+
+back to : page => welcome_page,choice => 0
+
+ensure_page_exists : page => welcome_page
+
+choice_exists : page => welcome_page, choice => 0 
+
+Runing Page : page => welcome_page , choice => 0
+
+preview_data : 0
+
+current_page : welcome_page
+
+back to : page => 0,choice => 0
+
+ensure_page_exists : page => 0
+
+choice_exists : page => 0, choice => 0 
+
+Runing Page : page => 0 , choice => 0
+
+ensure_page_exists : page => welcome_page
+
+history option => 2 , hidden => 2
+
+Saving Page history page => welcome_page , choice => 
+
+choice_exists : page => welcome_page, choice =>  
+
+Runing Page : page => welcome_page , choice => 
+
+preview_data : 2
+
+Session Already Started : 233201870623
+
+Execute Action : awaiting_choice
+
+analyze_choice : 2
+
+current_page : welcome_page
+
+choice_exists : page => welcome_page, choice => 2 
+
+current_page : welcome_page
+
+choosing action : page = welcome_page, choice = 2
+
+ensure_choice_exists : page => welcome_page, choice => 2
+
+choice_exists : page => welcome_page, choice => 2 
+
+ensure_page_exists : page => about
+
+history option => 2 , hidden => 2
+
+Saving Page history page => about , choice => 
+
+choice_exists : page => about, choice =>  
+
+Runing Page : page => about , choice => 
